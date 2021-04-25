@@ -12,3 +12,4 @@ Agenda - 26/4/21
  - Start on the environment
  - Upload code to github
  - ROS?
+ - Consider switching to Dobot?
