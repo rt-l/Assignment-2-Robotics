@@ -1,0 +1,20 @@
+Required lego bricks
+
+colours:
+red
+blue
+yellow
+white 
+		
+1x1
+1x2
+1x3
+1x4
+
+2x2
+2x3
+2x4
+
+TOTAL: 28 bricks
+
+
